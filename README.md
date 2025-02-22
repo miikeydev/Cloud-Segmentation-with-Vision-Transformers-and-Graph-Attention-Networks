@@ -23,9 +23,9 @@ To run the training pipeline, simply execute the Kaggle notebook.
 ## Architecture Overview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/65d7cce0-7d75-44c7-b414-c76b27f1d3fe" alt="Segmentation Architecture" width="80%">
+  <img src="https://github.com/user-attachments/assets/8b214317-6887-4112-907e-c6faaa38712c" alt="Segmentation Architecture" width="80%">
+  
 </div>
-
 
 This project is divided into two main components: the **Encoder** and the **Decoder**.
 
